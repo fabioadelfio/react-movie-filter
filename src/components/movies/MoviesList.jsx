@@ -1,5 +1,4 @@
 import MovieCard from "./MovieCard";
-import movies from "../../data/movies";
 
 export default function MoviesList({ movies }) {
     return (
